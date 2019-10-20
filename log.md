@@ -17,3 +17,11 @@
 **Thoughts:** I have calculated the hours of work put in by a person in a week* 
 
 **Link to work:** [Palindromic String](https://www.hackerrank.com/challenges/compare-the-triplets/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Heackerearth/Basic%20of%20IO/Compare%20the%20Triplets.py)
+
+### Day 3: October 20, 2019
+
+**Today's Progress**: I have continue coding on hackerearth
+
+**Thoughts:** I have calculated the hours of work put in by a person in a week* 
+
+**Link to work:** [Handshake](https://www.hackerrank.com/challenges/handshake/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Heackerearth/Basic%20of%20IO/Handshake.py)
