@@ -11,7 +11,4 @@ Started coding on hackerearth, solved two problems.
 Continue coding on hackerearth, solved a problem.
 
 ### R1D3
-Continue coding on hackerearth, solved a problem
-
-### R1D3
-Continue coding on hackerearth, solved a problem
+Continue coding on hackerearth, solved two problema related String and Array.
