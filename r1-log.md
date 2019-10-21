@@ -5,10 +5,13 @@ The log of my #100DaysOfCode challenge. Started on [October 17, Thursday, 2019].
 ## Log
 
 ### R1D1 
-Started coding on hackerearth, solved a problem.
+Started coding on hackerearth, solved two problems.
 
 ### R1D2
 Continue coding on hackerearth, solved a problem.
+
+### R1D3
+Continue coding on hackerearth, solved a problem
 
 ### R1D3
 Continue coding on hackerearth, solved a problem
