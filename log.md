@@ -33,3 +33,5 @@
 **Thoughts:** I have calculated the hours of work put in by a person in a week* 
 
 **Link to work:** [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Arrays.py)
+
+**Link to work:** [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Let's%20Review.py)
