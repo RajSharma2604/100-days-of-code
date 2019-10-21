@@ -25,3 +25,11 @@
 **Thoughts:** I have calculated the hours of work put in by a person in a week* 
 
 **Link to work:** [Handshake](https://www.hackerrank.com/challenges/handshake/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Heackerearth/Basic%20of%20IO/Handshake.py)
+
+### Day 4: October 21, 2019
+
+**Today's Progress**: I have continue coding on hackerearth
+
+**Thoughts:** I have calculated the hours of work put in by a person in a week* 
+
+**Link to work:** [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Arrays.py)
