@@ -11,10 +11,10 @@ Started coding on hackerearth, solved two problems.
 Continue coding on hackerearth, solved a problem.
 
 ### R1D3
-Continue coding on hackerearth, solved two problem related String and Array.
+Continue coding on hackerearth, solved one problem related Permutation.
 
-### R1D3
-Continue coding on hackerrank, solved a problem.
+### R1D4
+Continue coding on hackerrank, solved two problem related String and Array..
 
-### R1D3
+### R1D5
 Continue coding on hackerrank, solved a problem related Dictionaries.
