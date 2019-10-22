@@ -11,4 +11,10 @@ Started coding on hackerearth, solved two problems.
 Continue coding on hackerearth, solved a problem.
 
 ### R1D3
-Continue coding on hackerearth, solved two problema related String and Array.
+Continue coding on hackerearth, solved two problem related String and Array.
+
+### R1D3
+Continue coding on hackerrank, solved a problem.
+
+### R1D3
+Continue coding on hackerrank, solved a problem related Dictionaries.
