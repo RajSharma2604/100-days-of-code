@@ -14,10 +14,10 @@ Continue coding on hackerearth, solved a problem.
 Continue coding on hackerearth, solved one problem related Permutation.
 
 ### R1D4
-Continue coding on hackerrank, solved two problem related String and Array..
+Continue coding on hackerrank, solved two problems related String and Array..
 
 ### R1D5
 Continue coding on hackerrank, solved a problem related Dictionaries.
 
 ### R1D6
-Continue coding on hackerrank, solved a problem related Recursion.
+Continue coding on hackerrank, solved two problems related Recursion and array operation.
