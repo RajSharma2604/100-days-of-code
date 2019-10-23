@@ -43,3 +43,11 @@
 **Thoughts:** I have calculated the hours of work put in by a person in a week* 
 
 **Link to work:** [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Dictionaries%20and%20Maps.py)
+
+### Day 5: October 23, 2019
+
+**Today's Progress**: I have continue coding on hackerrank
+
+**Thoughts:** I have calculated the hours of work put in by a person in a week* 
+
+**Link to work:** [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Recursion.py)
