@@ -51,3 +51,5 @@
 **Thoughts:** I have calculated the hours of work put in by a person in a week* 
 
 **Link to work:** [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Recursion.py)
+
+**Link to work:** [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Plus%20Minus.py)
