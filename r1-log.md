@@ -18,3 +18,6 @@ Continue coding on hackerrank, solved two problem related String and Array..
 
 ### R1D5
 Continue coding on hackerrank, solved a problem related Dictionaries.
+
+### R1D6
+Continue coding on hackerrank, solved a problem related Recursion.
