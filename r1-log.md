@@ -21,3 +21,6 @@ Continue coding on hackerrank, solved a problem related Dictionaries.
 
 ### R1D6
 Continue coding on hackerrank, solved two problems related Recursion and array operation.
+
+### R1D7
+Continue coding on hackerrank, solved one problems related Binary Numbers.
