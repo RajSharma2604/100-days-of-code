@@ -61,3 +61,11 @@
 **Thoughts:** I have calculated the hours of work put in by a person in a week* 
 
 **Link to work:** [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Binary%20Numbers.py)
+
+### Day 8: October 28, 2019
+
+**Today's Progress**: I have continue coding on hackerrank
+
+**Thoughts:** I have calculated the hours of work put in by a person in a week* 
+
+**Link to work:** [Staircase](https://www.hackerrank.com/challenges/staircase/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Staircase.py)
