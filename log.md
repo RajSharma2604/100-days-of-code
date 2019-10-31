@@ -69,3 +69,11 @@
 **Thoughts:** I have calculated the hours of work put in by a person in a week* 
 
 **Link to work:** [Staircase](https://www.hackerrank.com/challenges/staircase/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Staircase.py)
+
+### Day 9: October 31, 2019
+
+**Today's Progress**: I have continue coding on hackerrank
+
+**Thoughts:** I have calculated the hours of work put in by a person in a week* 
+
+**Link to work:** [Maximum-Draws](https://www.hackerrank.com/challenges/maximum-draws/problem) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Hackerrank/Basic%20of%20IO/Maximum-Draws.py)
