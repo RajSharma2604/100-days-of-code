@@ -30,3 +30,6 @@ Continue coding on hackerrank, solved one problem related pattern.
 
 ### R1D9
 Continue coding on hackerrank, solved one problem.
+
+### R1D10
+Continue coding on hackerearth, solved one problem.
