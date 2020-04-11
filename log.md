@@ -93,3 +93,11 @@
 **Thoughts:** I have calculated the hours of work put in by a person in a week* 
 
 **Link to work:** [Find Prime factors] [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Heackerearth/Basic%20of%20IO/prime_fectors.py)
+
+### Day 11: April 11, 2020
+
+**Today's Progress**: I have continue coding on hackerearth.
+
+**Thoughts:** I have calculated the hours of work put in by a person in a week* 
+
+**Link to work:** [Zoos](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Heackerearth/Basic%20of%20IO/Zoos.py)
