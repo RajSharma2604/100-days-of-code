@@ -94,7 +94,7 @@
 
 **Link to work:** [Find Prime factors] [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Heackerearth/Basic%20of%20IO/prime_fectors.py)
 
-### Day 11: April 11, 2020
+### Day 12: April 11, 2020
 
 **Today's Progress**: I have continue coding on hackerearth.
 
