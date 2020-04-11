@@ -36,3 +36,6 @@ Continue coding on hackerearth, solved one problem.
 
 ### R1D11
 Continue coding on hackerearth, solved one problem.
+
+### R1D12
+Continue coding on hackerearth, solved one problem.
