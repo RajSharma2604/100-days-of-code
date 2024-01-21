@@ -103,7 +103,7 @@
 **Link to work:** [Zoos](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Heackerearth/Basic%20of%20IO/Zoos.py)
 
 
-### Day 12: January 21, 2024
+### Day 13: January 21, 2024
 
 **Today's Progress**: I have continue coding on GFG following Rohit Negi's DSA Sheet
 
