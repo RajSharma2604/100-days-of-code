@@ -109,11 +109,11 @@
 
 **Thoughts:** I have calculated the hours of work put in by a person in a week* 
 
-**Link to work:** [Search Array Element](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Q1Search_Elemenet_Array.py)
+**Link to work:** [Search Array Element](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Day1/Q1Search_Elemenet_Array.py)
 
-**Link to work:** [Check Two arrays Equal or not](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Q2Cheacking_Array_Equal_or_Not.py)
+**Link to work:** [Check Two arrays Equal or not](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Day1/Q2Cheacking_Array_Equal_or_Not.py)
 
-**Link to work:** [Find Missing Element of Ap](https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1?page=2&difficulty%5B%5D=0&status%5B%5D=solved&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Q3Missing_AP_Element.py)
+**Link to work:** [Find Missing Element of Ap](https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1?page=2&difficulty%5B%5D=0&status%5B%5D=solved&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Day1/Q3Missing_AP_Element.py)
 
-**Link to work:** [Cyclically Rotate and array by 1 element](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Q4Rotate_By_One_Element.py)
+**Link to work:** [Cyclically Rotate and array by 1 element](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Day1/Q4Rotate_By_One_Element.py)
 
