@@ -101,3 +101,19 @@
 **Thoughts:** I have calculated the hours of work put in by a person in a week* 
 
 **Link to work:** [Zoos](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/Heackerearth/Basic%20of%20IO/Zoos.py)
+
+
+### Day 12: January 21, 2024
+
+**Today's Progress**: I have continue coding on GFG following Rohit Negi's DSA Sheet
+
+**Thoughts:** I have calculated the hours of work put in by a person in a week* 
+
+**Link to work:** [Zoos](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Q1Search_Elemenet_Array.py)
+
+**Link to work:** [Zoos](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Q2Cheacking_Array_Equal_or_Not.py)
+
+**Link to work:** [Zoos](https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1?page=2&difficulty%5B%5D=0&status%5B%5D=solved&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Q3Missing_AP_Element.py)
+
+**Link to work:** [Zoos](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Arrays&sortBy=submissions) [- solution](https://github.com/DEEKSHANT-123/Compititive-Coding/blob/master/GFG/Q4Rotate_By_One_Element.py)
+
